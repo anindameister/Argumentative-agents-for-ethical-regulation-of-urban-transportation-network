@@ -1,8 +1,8 @@
 # Argumentative agents for ethical regulation of urban transportation network
 
-## December 2020
+#### December 2020
 
-Supervisors:Christopher Leturc^1 , Flavien Balbo^1 , Gr ́egory Bonnet^2
+**Supervisors**:Christopher Leturc^1 , Flavien Balbo^1 , Gr ́egory Bonnet^2
 Mail:christopher.leturc@emse.fr, flavien.balbo@emse.fr, gregory.bonnet@unicaen.fr
 Practical information:6 months Master 2 in computer sciences or PFE in-
 ternship at Institut Henri Fayol, Mines Saint-Etienne
@@ -97,5 +97,6 @@ ternational Joint Conference on Artificial Intelligence (pp. 1145-1152).
 [6] Governatori, G., Olivieri,F., Riveret, R., Rotolo, A., Villata, S. (2018). Dialogues
 on Moral Theories. In : DEON, 139-155.
 
+<hr>
 
 ### courtesy: https://pdf2md.morethan.io/
